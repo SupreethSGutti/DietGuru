@@ -1,2 +1,2 @@
-# DietGuru
-Diet planner with meal planner, calorie counter etc.
+# Hospital Management System
+
